@@ -1,0 +1,23 @@
+.active{
+    color:  rgb(109, 186, 128);
+    
+    }
+
+
+    .links{
+        background:#5750c1;
+        ;   
+    }
+/* 
+    .links div:hover {
+       
+        color: rgb(191, 203, 105);
+        transform: scale(1.1);
+        transition: all ;
+     
+    } */
+
+
+    .links div{
+        color: white;
+    }
